@@ -13,7 +13,7 @@ import {
   validateFilesPresence,
 } from "../middlewares/multer.middleware";
 import { passportAuthenticateJwt } from "../config/passport.config";
-import { requireAdmin } from "../middlewares/requireAdmin.middleware";
+import { requireAdmin } from "../middlewares/requireAdmin.middlaware";
 
 const adminRoutes = Router();
 
