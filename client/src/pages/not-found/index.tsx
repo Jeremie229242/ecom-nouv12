@@ -4,4 +4,4 @@ const NotFoundPage = () => {
     )
   }
   
-  export default NotFoundPager
+  export default NotFoundPage
